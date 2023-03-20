@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    padding: 0;
+    line-height: 100;
+    background-color: black;
+}
+.fondo {
+    background-image: url("./img/gato.jpg");
+    background-repeat: url("./img/gato.jpg");
+
+}
+
+#principal {
+    background-attachment: url("./img/risas.jpg");
+    
+}
+
